@@ -53,7 +53,7 @@ const Signup = () => {
       };
 
       const { data } = await axios.post(
-        "http://localhost:5000/user",
+        "https://quiz-app-ac90.onrender.com/user",
         { name, email, isTeacher, password },
         config
       );

@@ -47,7 +47,7 @@ function UploadQuestion() {
         },
       };
       const isSent = await axios.post(
-        "http://localhost:5000/quiz/upload",
+        "https://quiz-app-ac90.onrender.com/quiz/upload",
         dataToSend,
         config
       );
