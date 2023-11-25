@@ -1,4 +1,4 @@
-# Quiz-Hub
+# LangLearn Quizy
 ### Live Here -> https://quiz-app-flax-phi.vercel.app/
 ## TECH STACK USED:
 ### BACKEND:
