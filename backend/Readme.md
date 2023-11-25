@@ -3,16 +3,16 @@
 POST Request,
 URL: http://localhost:5000/user/ , 
 body: {
-    "name": "Sir",
-    "email": "sir@gmail.com",
-    "password": "sir@123"
+    "name": "aman",
+    "email": "aman@gmail.com",
+    "password": "aman@123"
 }
 ## Sign In / Log In
 POST Request,
 URL: http://localhost:5000/user/login , 
 body: {
-    "email": "john123@gmail.com",
-    "password": "123456"
+    "email": "aman@gmail.com",
+    "password": "aman@123"
 }
 ## Get Quiz Questions
 POST Request,
